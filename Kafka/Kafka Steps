@@ -1,32 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@SumeetMaNe03 
-Abhishek-Lohare
-/
-Big-Data-technologies
-Public
-Fork your own copy of Abhishek-Lohare/Big-Data-technologies
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Beta Try the new code view
-Big-Data-technologies/Kafka/kafka_steps
-@Abhishek-Lohare
-Abhishek-Lohare Create kafka_steps
-Latest commit 329e71b on Jan 8
- History
- 1 contributor
-86 lines (46 sloc)  2.86 KB
+
 
 # To start the kafka
 sudo /usr/local/kafka/bin/kafka-server-start.sh /usr/local/kafka/config/server.properties
@@ -110,22 +82,3 @@ With this above testing you have successfully verified that you have a valid Apa
 
 
 Step 8 :- root@one:~# sudo /usr/local/Kafka/bin/kafka-server-stop.sh config/server.properties
-
-
-
-
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Big-Data-technologies/kafka_steps at main · Abhishek-Lohare/Big-Data-technologies
